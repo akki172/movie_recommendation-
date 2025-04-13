@@ -1,6 +1,8 @@
 Summary
 =======
-Create real-time, personalized movie recommendations with Amazon Personalize
-this is a project on asw where we can get recommendations
+Create real-time, personalized movie recommendations using **Amazon Personalize**.
 
-you can see the working of the project in my youtube Link :https://youtu.be/Rngs5BZMfA0?si=2BwNeS8FDP8E_qBy
+This is a project on **AWS** that delivers movie recommendations based on user preferences.
+
+ You can see the working demo of the project on YouTube:  
+[Watch on YouTube](https://youtu.be/Rngs5BZMfA0?si=2BwNeS8FDP8E_qBy)
